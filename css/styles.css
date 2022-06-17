@@ -1,0 +1,146 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #20B2AA;
+  color: 	#FFFFF0;
+  padding: 0 0 0 10px;
+  height: 247px;
+}
+
+#Home_page {
+  background-color: #20B2AA;
+  color: 	#FFFFF0;
+}
+
+h3 {
+  font-family: "Montserrat-Bold";
+  font-size: 1.3rem;
+  padding: 30px;
+}
+
+p {
+  color: grey;
+}
+
+.index_paragraph {
+  color: #000;
+}
+
+#sign {
+  text-align: center;
+}
+
+.signup {
+  background-color: #20B2AA;
+  height: 395px;
+}
+
+#Log {
+  text-align: center;
+}
+
+.Login {
+  padding: 5%;
+  background-color: #20B2AA;
+  height: 330px;
+}
+
+
+.image {
+  float: right;
+  padding: 0 50px;
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  font-style: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 12px;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  font-family: "Montserrat-Light"
+}
+
+/* Features Section */
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: 	#FF0000;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #696969;
+}
+
+.result_logo {
+  margin-bottom: 1rem;
+  color: #778899;
+}
+
+.result_stat {
+  color: #000080;
+}
+
+#ex_students {
+  background-color: #FFC0CB;
+  height: 350px;
+  text-align: center;
+  color: #fff;
+}
+
+#press {
+  background-color: #FFC0CB;
+  text-align: center;
+  padding: 30px;
+}
+
+.news {
+  width: 90px;
+}
+
+.price_ki_line {
+  padding: 1%;
+}
+
+.price_ke_upper {
+  color: #DC143C;
+}
+
+#pricing {
+  text-align: center;
+}
+
+#copyright {
+  padding: 2%;
+  text-align: center;
+  background-color: #FFE4C4;
+  height: 120px;
+}
+
+.social_icon {
+  color: 	#808080;
+  margin: 20px 10px;
+}
+
+@media (max-width: 1020px) {
+  #title {
+    text-align: center;
+  }
+}
